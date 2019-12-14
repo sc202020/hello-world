@@ -1,4 +1,4 @@
 # hello-world
-very first test repository
+very first
 
 2019.12.14 first test on Github
